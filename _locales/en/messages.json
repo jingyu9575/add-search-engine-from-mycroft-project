@@ -1,0 +1,11 @@
+{
+	"extensionName": {
+		"message": "Add Search Engine from Mycroft Project"
+	},
+	"extensionDescription": {
+		"message": "Provide a workaround to add search engines from Mycroft Project after Firefox 65."
+	},
+	"instruction": {
+		"message": "To add the search engine, click the \"⋯\" menu in the address bar, and select \"Add Search Engine\"."
+	}
+}

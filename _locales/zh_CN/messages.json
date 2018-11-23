@@ -1,0 +1,11 @@
+{
+	"extensionName": {
+		"message": "添加 Mycroft Project 搜索引擎"
+	},
+	"extensionDescription": {
+		"message": "在火狐 65 上从 Mycroft Project 添加搜索引擎。"
+	},
+	"instruction": {
+		"message": "要安装此搜索引擎，点击地址栏中的“⋯”菜单，选择“添加搜索引擎”。"
+	}
+}
