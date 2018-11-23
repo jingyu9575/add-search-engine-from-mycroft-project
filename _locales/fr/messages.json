@@ -1,0 +1,11 @@
+{
+	"extensionName": {
+		"message": "Ajouter un moteur de recherche de Mycroft Project"
+	},
+	"extensionDescription": {
+		"message": "Donne une méthode pour ajouter des moteurs de recherche de Mycroft Project à partir de Firefox 65."
+	},
+	"instruction": {
+		"message": "Pour ajouter ce moteur de recherche, cliquez le bouton \"⋯\" dans la barre d'addresse et sélectionnez \"Ajouter ce moteur de recherche\"."
+	}
+}
