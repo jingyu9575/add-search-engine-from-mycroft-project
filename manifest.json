@@ -3,11 +3,11 @@
 	"applications": {
 		"gecko": {
 			"id": "add-search-engine-from-mycroft-project@qw.thucfb.com",
-			"strict_min_version": "61.0"
+			"strict_min_version": "60.0"
 		}
 	},
 	"name": "__MSG_extensionName__",
-	"version": "0.3",
+	"version": "0.4",
 	"description": "__MSG_extensionDescription__",
 	"permissions": [],
 	"background": {

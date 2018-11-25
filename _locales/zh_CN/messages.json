@@ -7,5 +7,11 @@
 	},
 	"instruction": {
 		"message": "要安装此搜索引擎，点击地址栏中的“⋯”菜单，选择“添加搜索引擎”。"
+	},
+	"instruction60": {
+		"message": "要安装此搜索引擎，点击搜索栏中的图标，选择“添加搜索引擎”。"
+	},
+	"searchEngine": {
+		"message": "搜索引擎"
 	}
 }

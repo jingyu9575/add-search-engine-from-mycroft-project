@@ -7,5 +7,11 @@
 	},
 	"instruction": {
 		"message": "To add the search engine, click the \"⋯\" menu in the address bar and select \"Add Search Engine\"."
+	},
+	"instruction60": {
+		"message": "To add the search engine, click the icon in the search bar and select \"Add Search Engine\"."
+	},
+	"searchEngine": {
+		"message": "Search Engine"
 	}
 }
